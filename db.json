@@ -10,7 +10,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":""
+				"codigoMovimiento":""
 			}
 		],
 		"paginas":"1",
@@ -27,7 +27,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -38,7 +38,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -49,7 +49,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -60,7 +60,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -71,7 +71,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -82,7 +82,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -93,7 +93,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -104,7 +104,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -115,7 +115,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -126,7 +126,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -137,7 +137,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			}
 		],
 		"paginas":"2",
@@ -154,7 +154,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -165,7 +165,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -176,7 +176,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -187,7 +187,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -198,7 +198,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"CodigoMovimiento":"295"
+				"codigoMovimiento":"295"
 			}
 		],
 		"paginas":"2",
