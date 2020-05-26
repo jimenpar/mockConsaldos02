@@ -62,9 +62,9 @@
 "resultadosICM":{
 		"resultados":[
 			{
-				"referenciaTransaccion":"CUN2002182038990",
-				"codigoEntidadAdeudo":"CAHMESMM",
-				"codigoEntidadAbono":"ESPBESMM",
+				"referenciaTransaccion":"CUNxxxx182xxxxx0",
+				"codigoEntidadAdeudo":"CXXXXXXM",
+				"codigoEntidadAbono":"EXXXXXXM",
 				"importe":"6420000.00",
 				"estadoPago":"SETTLED",
 				"entrada":"true",
@@ -87,7 +87,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -98,7 +98,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -109,7 +109,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -120,7 +120,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -131,7 +131,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -142,7 +142,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -153,7 +153,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -164,7 +164,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -175,7 +175,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -186,7 +186,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -197,7 +197,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			}
 		],
 		"paginas":"2",
@@ -214,7 +214,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -225,7 +225,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -236,7 +236,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -247,7 +247,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			},
 			{
 				"referenciaTransaccion":"",
@@ -258,7 +258,7 @@
 				"entrada":"true",
 				"nombreOrdenante":"",
 				"nombreBeneficiario":"",
-				"codigoMovimiento":"295"
+				"codigoMovimiento":"2XX"
 			}
 		],
 		"paginas":"2",
