@@ -1,4 +1,64 @@
 {
+	  "conciliaciones01": {
+	  "paginas":2,
+	  "total":12,
+	  "conciliaciones":[
+		  {
+			  "idConciliacion":"con001",
+			  "nombreConciliacion":"Barrido a T2S"
+		  },
+		  {
+				"idConciliacion" : "con002",
+				"nombreConciliacion" : "Valores"
+			},
+			{
+				"idConciliacion" : "con003",
+				"nombreConciliacion" : "Cupones/Amortizaciones en Póliza"
+			},
+			{
+				"idConciliacion" : "con004",
+				"nombreConciliacion" : "OMS"
+			},
+			{
+				"idConciliacion" : "con005",
+				"nombreConciliacion" : "Cámaras"
+			},
+			{
+				"idConciliacion" : "con006",
+				"nombreConciliacion" : "Liquidación por Diferencias"
+			},
+			{
+				"idConciliacion" : "con007",
+				"nombreConciliacion" : "MEFF"
+			},
+			{
+				"idConciliacion" : "con008",
+				"nombreConciliacion" : "Gestión Efectivo"
+			},
+			{
+				"idConciliacion" : "con009",
+				"nombreConciliacion" : "Impuestos"
+			},
+			{
+				"idConciliacion" : "con010",
+				"nombreConciliacion" : "Subastas y Depósitos Interbancarios"
+			}
+	  ]
+  },
+"conciliaciones02": {
+	"paginas":2,
+	"total":12,
+	"conciliaciones":[
+		{
+			"idConciliacion":"con011",
+			"nombreConciliacion":"Barrido Cuentas Corrientes"
+		},
+		{
+			"idConciliacion" : "con012",
+			"nombreConciliacion" : "CAJON DE SASTRE"
+		}
+	]
+},
 "resultadosICM":{
 		"resultados":[
 			{
